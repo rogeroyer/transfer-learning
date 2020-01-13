@@ -2,16 +2,16 @@
 
 All of papers in this repository is about **Transfer Learning**, include many fields such as NLP|CV|Video|Voice. But most are related to NLP. Majority papers are from the last three years of international top-level conferences, which listed below.
 
-- ![Conference Papers](https://github.com/rogeroyer/transfer-learning/tree/master/Conference%20Papers)
-  - ![ACL](http://dblp.uni-trier.de/db/conf/acl/)
-  - ![AAAI](http://dblp.uni-trier.de/db/conf/aaai/)
-  - ![ICML](http://dblp.uni-trier.de/db/conf/icml/)
-  - ![NeurlPS](http://dblp.uni-trier.de/db/conf/nips/)
-  - ![IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)
-  - ![EMNLP](http://dblp.uni-trier.de/db/conf/emnlp/)
-  - ![NAACL-HLT](http://dblp.uni-trier.de/db/conf/naacl/)
+- [Conference Papers](https://github.com/rogeroyer/transfer-learning/tree/master/Conference%20Papers)
+  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
+  - [AAAI](http://dblp.uni-trier.de/db/conf/aaai/)
+  - [ICML](http://dblp.uni-trier.de/db/conf/icml/)
+  - [NeurlPS](http://dblp.uni-trier.de/db/conf/nips/)
+  - [IJCAI](http://dblp.uni-trier.de/db/conf/ijcai/)
+  - [EMNLP](http://dblp.uni-trier.de/db/conf/emnlp/)
+  - [NAACL-HLT](http://dblp.uni-trier.de/db/conf/naacl/)
 
-## ![about me](https://rogeroyer.github.io/)
+## [about me](https://rogeroyer.github.io/)
 
 1st year master student of Computer Science.
 
